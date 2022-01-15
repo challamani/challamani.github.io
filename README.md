@@ -2,8 +2,8 @@
 - 👀 I’m interested in System Design and Algorithms
 - 🌱 I’m currently learning System Design in Micro Service Style, Stream Processing, Block Chain and Dynamic Programming. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-<a> https://www.youtube.com/channel/UC3teoN-bA4Zk0P21eRzX1dw <a>
+- Here I've uploaded my learnings
+[My Learnings](https://www.youtube.com/channel/UC3teoN-bA4Zk0P21eRzX1dw)
 
 
 <!---
