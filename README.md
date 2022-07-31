@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @java-manikanta
 - 👀 I’m interested in System Design and Algorithms.
-- 🌱 I’m currently learning Advanced deployment/delivery techniques, Blockchain and Dynamic Programming. 
+- 🌱 Currently I'm learning Blockchain and Dynamic Programming, and Advanced deployment/delivery techniques.
 
 - Here I've uploaded 
 [My Learnings](https://www.youtube.com/channel/UC3teoN-bA4Zk0P21eRzX1dw)
