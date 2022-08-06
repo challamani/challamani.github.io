@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @java-manikanta
+- 👋 Hi, I’m Manikanta
 - 👀 I’m interested in System Design and Algorithms.
 - 🌱 Currently I'm learning Blockchain and Dynamic Programming, and Advanced deployment/delivery techniques.
 
