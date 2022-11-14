@@ -3,7 +3,7 @@
 - 🌱 Currently I'm learning Blockchain and Dynamic Programming, and Advanced deployment/delivery techniques.
 
 - Here I've uploaded 
-[My Learnings](https://www.youtube.com/channel/UC3teoN-bA4Zk0P21eRzX1dw)
+[MyTechHub](https://www.youtube.com/channel/UC3teoN-bA4Zk0P21eRzX1dw)
 
 
 <!---
