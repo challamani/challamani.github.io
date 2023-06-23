@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manikanta
-- 👀 I’m interested in System Design and Algorithms.
+- 👀 I’m interested in Designing and Implementing components that can reusable as a tool or a service.
 - 🌱 Currently I'm learning Blockchain and Advanced cloud deployments/delivery techniques.
 
 - Here I've uploaded 
@@ -7,6 +7,6 @@
 
 
 <!---
-java-manikanta/java-manikanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+challamani/challamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
