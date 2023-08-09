@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manikanta
-- 👀 I’m interested in Designing and Implementing components that can reusable as a tool or a service.
+- 👀 I’m interested in Designing and Implementing components that can be reusable as a tool or a service.
 - 🌱 Currently I'm learning Blockchain and Advanced cloud deployments/delivery techniques.
 
 - Here I've uploaded 
