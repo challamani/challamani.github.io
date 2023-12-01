@@ -2,8 +2,6 @@
 - 👀 I’m interested in Designing and Implementing components that can be reusable as a tool or a service.
 - 🌱 Currently I'm learning Blockchain for smart contracts and Advanced cloud deployments/delivery techniques.
 
-- Here I've uploaded 
-[MyTechHub](https://www.youtube.com/channel/UC3teoN-bA4Zk0P21eRzX1dw)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=challamani&hide_border=true&hide_rank=false&show_icons=true&theme=dracula">
 
