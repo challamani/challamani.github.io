@@ -11,7 +11,7 @@ Welcome to the Lifestyle section! Here, you'll find posts sharing my experiences
 ## Posts in Lifestyle
 
 {% for post in site.posts %}
-  {% if post.categories contains "tech" %}
+  {% if post.categories contains "lifestyle" %}
   <article>
    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
    <p>{{ post.excerpt }}</p>
