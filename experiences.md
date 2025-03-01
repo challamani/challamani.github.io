@@ -11,9 +11,9 @@ Welcome to the My Experiences section! Here, you'll find posts about my work exp
 ## Posts
 {% for post in site.posts %}
   {% if post.categories contains "experiences" %}
-    <article>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p>{{ post.excerpt }}</p>
-    </article>
+  <article>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt }}</p>
+  </article>
   {% endif %}
 {% endfor %}
