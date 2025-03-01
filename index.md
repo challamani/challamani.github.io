@@ -8,9 +8,9 @@ title: My Experiences & Thoughts
 This is my personal blog, where I share my experiences with various technologies I've worked with, along with my ideas, solutions, and some of the challenges I've faced in life beyond tech.
 
 ## Categories
-- [Lifestyle](https://manichalla.com/lifestyle/)
-- [Tech & Solutions](https://manichalla.com/tech/)
 - [Experiences](https://manichalla.com/experiences/)
+- [Tech & Solutions](https://manichalla.com/tech/)
+- [Lifestyle](https://manichalla.com/lifestyle/)
 
 ## Recent Posts
 {% for post in site.posts %}

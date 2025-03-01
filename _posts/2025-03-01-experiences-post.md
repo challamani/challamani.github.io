@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "My Experience in Cultuzz India Pvt Ltd"
 date: 2025-03-01
 categories: experiences
@@ -23,4 +23,3 @@ Additionally, we integrated the system with PayPal, enabling it to receive payme
 More Than Just Work
 Beyond coding, my time at Cultuzz was filled with learning, collaboration, and great friendships. It wasn’t just about the projects—it was about the people who made each challenge enjoyable. Looking back, I realize how much my first company shaped my journey, and for that, I’ll always be grateful.
 Now it's time for the big pages, I'll share all the things that I remembered, coming soon...!
-
