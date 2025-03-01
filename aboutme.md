@@ -1,3 +1,9 @@
+---
+layout: default
+title: "About Me"
+permalink: /aboutme/
+---
+
 👋 Hello, I’m Mani!
 
 🔍 Passionate about designing and implementing reusable components, whether as libraries or services.
@@ -6,7 +12,7 @@
 
 💻 In my free time, I love writing code, designing workflows for complex business scenarios, and exploring Blockchain technology for smart contracts.
 
-You can also find me on:
+You can also follow my activities on:
 - [GitHub](https://github.com/{{ site.social.github }})
 - [LinkedIn](https://linkedin.com/in/{{ site.social.linkedin }})
 - [YouTube](https://www.youtube.com/{{ site.social.youtube }})
