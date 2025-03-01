@@ -5,6 +5,7 @@ baseurl: ""
 url: "https://manichalla.com"
 #theme: jekyll-theme-slate  # Classic default theme
 markdown: kramdown
+home_url: "/"
 
 navigation:
   - title: Home
