@@ -12,7 +12,7 @@ Welcome to the My Experiences section! Here, you'll find posts about my work exp
   {% if post.categories contains "experiences" %}
     <article>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.excerpt | default: post.content | truncatewords: 30 }}</p>
     </article>
   {% endif %}
 {% endfor %}
