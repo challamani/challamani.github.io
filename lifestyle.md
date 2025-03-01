@@ -12,9 +12,9 @@ Welcome to the Lifestyle section! Here, you'll find posts sharing my experiences
 
 {% for post in site.posts %}
   {% if post.categories contains "tech" %}
-    <article>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </article>
+  <article>
+   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+   <p>{{ post.excerpt }}</p>
+  </article>
   {% endif %}
 {% endfor %}

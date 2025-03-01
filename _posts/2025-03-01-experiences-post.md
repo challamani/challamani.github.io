@@ -4,7 +4,7 @@ title: "My Experience in Cultuzz India Pvt Ltd"
 date: 2025-03-01
 categories: 
   - experiences
-font: "Roboto"
+font: Roboto
 ---
 
 First company is always special to everyone; we will never forget the experience and memories. - 2yrs @Cultuzz (April 2013 to March 2015)
