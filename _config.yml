@@ -1,9 +1,8 @@
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-hacker
 title: Manikanta's page
 description: I'm a software engineer with over a decade of hands-on experience in research and development initiatives across diverse sectors, including Financial Services, International Remittance Services, and Supply Chain Domains. 
 baseurl: ""
 url: "https://manichalla.com"
-#theme: jekyll-theme-slate  # Classic default theme
 #theme: jekyll-theme-minimal
 markdown: kramdown
 home_url: "/"
