@@ -16,9 +16,6 @@ A first job isn’t just about learning technology, it shapes your career path a
 
 Rather than just talking about the work itself, I want to share more about the people, friendships, and incidents that made my time at Cultuzz so memorable. But first, let’s talk about what I worked on.
 
-I was lucky to work under an inspiring and supportive leader, surrounded by ridiculously smart colleagues, who also happened to be my PG classmates and friends. They never missed a chance to scold me like a strict school teacher, roast me like a weekend barbecue, and praise me like a proud parent all in perfect balance, but I realised after I left the company, working with your own people is not just easier, it's a lot more fun. 
-After all, a known devil is always better than an unknown angel! 😄
-
 ### My Work at Cultuzz
 
 When I joined, I started working on two major modules:
@@ -31,5 +28,8 @@ Additionally, we integrated the system with PayPal, enabling it to receive payme
 ### More Than Just Work
 
 Beyond coding, my time at Cultuzz was filled with learning, collaboration, and great friendships. It wasn’t just about the projects—it was about the people who made each challenge enjoyable. Looking back, I realize how much my first company shaped my journey, and for that, I’ll always be grateful.
+
+I was lucky to work under an inspiring and supportive leader, surrounded by ridiculously smart colleagues, who also happened to be my PG classmates and friends. They never missed a chance to scold me like a strict school teacher, roast me like a weekend barbecue, and praise me like a proud parent all in perfect balance, but I realised after I left the company, working with your own people is not just easier, it's a lot more fun. 
+After all, a known devil is always better than an unknown angel! 😄
 
 Now it's time for the big pages, I'll share all the things that I remembered, coming soon...!
