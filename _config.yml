@@ -1,4 +1,4 @@
-theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 title: Manikanta's page
 description: I'm a software engineer with over a decade of hands-on experience in research and development initiatives across diverse sectors, including Financial Services, International Remittance Services, and Supply Chain Domains. 
 baseurl: ""
@@ -6,6 +6,13 @@ url: "https://manichalla.com"
 #theme: jekyll-theme-minimal
 markdown: kramdown
 home_url: "/"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 social:
   github: "challamani"
