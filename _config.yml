@@ -1,9 +1,19 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 title: Manikanta's page
 description: I'm a software engineer with over a decade of hands-on experience in research and development initiatives across diverse sectors, including Financial Services, International Remittance Services, and Supply Chain Domains. 
 baseurl: ""
 url: "https://manichalla.com"
 #theme: jekyll-theme-minimal
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-slate
+#theme: jekyll-theme-primer
+#theme: jekyll-theme-hacker
+#theme: jekyll-theme-merlot
+#theme: jekyll-theme-leap-day
+#theme: jekyll-theme-time-machine
+#theme: jekyll-theme-architect
+
 markdown: kramdown
 home_url: "/"
 
