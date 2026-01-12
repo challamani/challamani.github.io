@@ -5,6 +5,7 @@ date: 2025-10-22
 categories: 
   - tech
 ---
+Kubernetes Community Days UK 2025 – My Experience in Edinburgh
 
 # Kubernetes Community Days UK 2025 – My Experience in Edinburgh
 
@@ -16,6 +17,8 @@ Event Website: [kcd.uk](https://community.cncf.io/events/details/cncf-kcd-uk-pre
 In October 2025, I had the chance to attend **Kubernetes Community Days (KCD) UK 2025** in Edinburgh, and honestly—it was a fantastic experience. Two full days of learning, hands-on labs, and great conversations with people who genuinely care about cloud-native technologies and open source.
 
 From deep technical sessions to casual chats over coffee, the event had a really welcoming and community-driven vibe.
+
+[2 Days Schedule](https://sessionize.com/view/yz0a7tia/GridSmart?format=Embed_Styled_Html&isDark=false&title=KCD%20UK%20Edinburgh%202025)
 
 ---
 
