@@ -7,6 +7,12 @@ url: "https://manichalla.com"
 markdown: kramdown
 home_url: "/"
 
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 social:
   github: "challamani"
   linkedin: "manikanta-challa-7498b282"
