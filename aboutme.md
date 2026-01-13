@@ -13,6 +13,7 @@ permalink: /aboutme/
 💻 In my free time, I love writing code, designing workflows for complex business scenarios, and exploring Blockchain technology for smart contracts.
 
 You can also follow my activities on:
+
 - [GitHub](https://github.com/{{ site.social.github }})
 - [LinkedIn](https://linkedin.com/in/{{ site.social.linkedin }})
 - [YouTube](https://www.youtube.com/{{ site.social.youtube }})
