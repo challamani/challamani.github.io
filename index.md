@@ -3,23 +3,34 @@ layout: default
 title: My Experiences & Thoughts
 ---
 
-# Welcome to My Blog
+# 👋 Welcome to My Blog
 
-This is my personal blog, where I share my experiences with various technologies I've worked with, along with my ideas, solutions, and some of the challenges I've faced in life beyond tech.
+This is my personal space where I share experiences with various technologies, ideas, solutions, and the challenges I've faced both in tech and in life.
 
-[About Me](https://manichalla.com/aboutme/)
+---
 
-## Categories
+## 🔗 Quick Links
 
-- [Experiences](https://manichalla.com/experiences/)
-- [Tech & Solutions](https://manichalla.com/tech/)
-- [Lifestyle](https://manichalla.com/lifestyle/)
+**[👤 About Me](https://manichalla.com/aboutme/)** - Get to know me better
 
-## Recent Posts
+---
+
+## 📚 Explore by Category
+
+- **[💼 Experiences](https://manichalla.com/experiences/)** - Real-world stories and professional journey
+- **[🌱 Lifestyle](https://manichalla.com/lifestyle/)** - Life beyond code
+- **[💻 Technical Blogs](https://manichalla.com/tech/)** - Deep dives into technology
+
+---
+
+## 📝 Recent Posts
 
 {% for post in site.posts %}
-  <article>
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.excerpt }}</p>
-  </article>
+<article>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p>{{ post.excerpt }}</p>
+  <small>{{ post.date | date: "%B %d, %Y" }}</small>
+</article>
+
+---
 {% endfor %}

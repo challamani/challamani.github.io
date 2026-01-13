@@ -5,14 +5,13 @@ date: 2025-10-22
 categories: 
   - tech
 ---
+
 Kubernetes Community Days UK 2025 – My Experience in Edinburgh
 
-# Kubernetes Community Days UK 2025 – My Experience in Edinburgh
-
-Dates: October 21–22, 2025
-Location: Edinburgh
-Theme: Cloud Native, Open Source, and Community
-Event Website: [kcd.uk](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-edinburgh-2025/)
+**Dates:** October 21–22, 2025  
+**Location:** Edinburgh  
+**Theme:** Cloud Native, Open Source, and Community  
+**Event Website:** [kcd.uk](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-edinburgh-2025/)
 
 In October 2025, I had the chance to attend **Kubernetes Community Days (KCD) UK 2025** in Edinburgh, and honestly—it was a fantastic experience. Two full days of learning, hands-on labs, and great conversations with people who genuinely care about cloud-native technologies and open source.
 
@@ -44,20 +43,18 @@ All of this was powered by eBPF. It was practical, well-structured, and very eas
 
 #### Networking and Sponsor Booths
 
-During breaks, I spent time talking with sponsors like Tigera (Calico), Isovalent (Cilium), SUSE, Komodor, Cloudsmith, Coder, Syntasso, and Cluster.
-Their booths were busy with live demos, free swag, and honest discussions about real Kubernetes problems teams face every day.
+During breaks, I spent time talking with sponsors like **Tigera** (Calico), **Isovalent** (Cilium), **SUSE**, **Komodor**, **Cloudsmith**, **Coder**, **Syntasso**, and **Cluster**. Their booths were busy with live demos, free swag, and honest discussions about real Kubernetes problems teams face every day.
 
 #### Afternoon Talks and Lightning Sessions
 
-The afternoon included with interesting sessions. Some Lightning talks:
+The afternoon was packed with interesting sessions. Some notable lightning talks:
 
-* The Immutable Lightness of an Edge Platform – about making edge systems more reliable.
-* Kubernetes at the Edge – Live Demo – showing AI detection on a Raspberry Pi using KubeEdge.
-* Scaling Kubernetes with Karpenter – a smarter approach to autoscaling.
-* Extreme Microservices with GraphQL Federation – a bold and creative take on microservices.
+* **The Immutable Lightness of an Edge Platform** – about making edge systems more reliable
+* **Kubernetes at the Edge – Live Demo** – showing AI detection on a Raspberry Pi using KubeEdge
+* **Scaling Kubernetes with Karpenter** – a smarter approach to autoscaling
+* **Extreme Microservices with GraphQL Federation** – a bold and creative take on microservices
 
-The day ended with fun lightning talks on topics like OpenTelemetry, Kubernetes for beginners, and AI-powered observability.
-We wrapped up with food and drinks sponsored by Minimus and Chainguard, which was perfect for relaxed networking.
+The day ended with fun lightning talks on topics like **OpenTelemetry**, **Kubernetes for beginners**, and **AI-powered observability**. We wrapped up with food and drinks sponsored by **Minimus** and **Chainguard**, which was perfect for relaxed networking.
 
 ---
 
@@ -65,9 +62,9 @@ We wrapped up with food and drinks sponsored by Minimus and Chainguard, which wa
 
 Day 2 started strong with three keynotes:
 
-* Many Cooks, One Platform – about teamwork and ownership in platform engineering
-* A Talk About Talks – encouraging more people to speak and share knowledge
-* Keeping AI Honest with OpenTelemetry – a live demo showing how observability helps debug AI systems
+* **Many Cooks, One Platform** – about teamwork and ownership in platform engineering
+* **A Talk About Talks** – encouraging more people to speak and share knowledge
+* **Keeping AI Honest with OpenTelemetry** – a live demo showing how observability helps debug AI systems
 
 ### Key Sessions
 
@@ -77,8 +74,7 @@ One standout keynote showed how **OpenTelemetry** can be used to debug and monit
 
 #### vCluster Workshop
 
-In the afternoon, I joined a 90-minute workshop by Cluster on building internal developer platforms using vCluster.
-Using Killercoda labs, we simulated multiple teams sharing Kubernetes and learned how virtual clusters help keep environments isolated and easier to manage.
+In the afternoon, I joined a 90-minute workshop by **Cluster** on building internal developer platforms using **vCluster**. Using **Killercoda** labs, we simulated multiple teams sharing Kubernetes and learned how virtual clusters help keep environments isolated and easier to manage.
 
 #### Kubernetes and the Blackboard Pattern
 
