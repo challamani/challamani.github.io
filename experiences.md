@@ -1,6 +1,7 @@
+---
 layout: default
 title: My Work Experiences
-
+permalink: /experiences/
 ---
 
 # My Work Experiences

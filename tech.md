@@ -4,7 +4,7 @@ title: Tech & Solutions
 permalink: /tech/
 ---
 
-# Tech Blog
+# Technical Blogs
 
 Welcome to the Tech & Solutions section! Here you'll find posts on solutions, challenges, and experiences — everything tech-related.
 
