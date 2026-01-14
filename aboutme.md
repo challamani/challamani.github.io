@@ -1,6 +1,8 @@
+---
 layout: default
 title: "About Me"
 permalink: /aboutme/
+---
 
 # 👋 Hello, I’m Mani!
 
@@ -13,7 +15,7 @@ Passionate about designing and implementing reusable components as libraries and
 ## 🚀 Currently
 
 - Building a secure API platform using cutting-edge Kubernetes technologies with a strong emphasis on security.
-- Expanding my knowledge of advanced cloud deployment and release techniques.
+- Expanding my knowledge of advanced cloud deployment and release techniques, zero downtime strategies, and high availability.
 
 ## 💡 Beyond Code
 
