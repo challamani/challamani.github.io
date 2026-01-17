@@ -15,11 +15,11 @@ This is my personal space where I share experiences with various technologies, i
 
 ---
 
-## 📚 Explore by Category
+## 📚 Explore Posts by Category
 
 - **[💼 Experiences](https://manichalla.com/experiences/)** - Real-world stories and professional journey
-- **[🌱 Lifestyle](https://manichalla.com/lifestyle/)** - Life beyond code
 - **[💻 Technical Blogs](https://manichalla.com/tech/)** - Deep dives into technology
+- **[🌱 Lifestyle](https://manichalla.com/lifestyle/)** - Life beyond code
 
 ---
 
