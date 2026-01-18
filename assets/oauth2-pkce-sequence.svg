@@ -45,7 +45,7 @@
 
   <!-- Steps -->
   <!-- 0. PKCE generation (client-side) -->
-  <text class="note" x="200" y="100">1. Client generates code_verifier & code_challenge</text>
+  <text class="note" x="200" y="100">1. Client generates code_verifier &amp; code_challenge</text>
 
   <!-- 1. Authorization Request -->
   <g>
@@ -53,7 +53,7 @@
     <text class="note" x="230" y="120" text-anchor="middle">Authorization Request (client_id, redirect_uri, code_challenge, ...)</text>
   </g>
 
-  <!-- 2. User authenticates & consents (Auth server) -->
+  <!-- 2. User authenticates &amp; consents (Auth server) -->
   <g>
     <path class="arrow" d="M 520 165 L 352 165" stroke="#888" />
     <text class="note" x="440" y="155" text-anchor="middle">Auth Server: prompt for login/consent</text>
