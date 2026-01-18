@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="520" viewBox="0 0 1040 520" aria-labelledby="title desc">
   <title id="title">OAuth2 PKCE Sequence Diagram</title>
-  <desc id="desc">Sequence diagram showing PKCE authorization code flow between User Agent, Client (public), Authorization Server and Resource Server.</desc>
+  <desc id="desc">Sequence diagram showing Authorization Code + PKCE flow.</desc>
   <style>
     .actor { font: 14px/1.2 "Segoe UI", Roboto, Arial, sans-serif; fill: #111; }
-    .box { fill:#f7f9fb; stroke:#cbd6df; stroke-width:1.5; rx:6; }
-    .lifeline { stroke:#cbd6df; stroke-dasharray:4 6; }
-    .arrow { fill:none; stroke:#0b76ef; stroke-width:2; marker-end:url(#arrowhead); }
-    .note { font:12px/1.2 "Segoe UI", Roboto, Arial, sans-serif; fill:#333; }
+    .box { fill:#fff; stroke:#222; stroke-width:1; rx:6; }
+    .lifeline { stroke:#bbb; stroke-dasharray:4 6; stroke-width:1; }
+    .arrow { fill:none; stroke:#0b76ef; stroke-width:2.5; marker-end:url(#arrowhead); }
+    .label { font:13px/1.2 "Segoe UI", Roboto, Arial, sans-serif; fill:#000; font-weight:600; }
+    .label-outline { font:13px/1.2 "Segoe UI", Roboto, Arial, sans-serif; fill:none; stroke:#fff; stroke-width:3; stroke-linejoin:round; paint-order:stroke; }
   </style>
 
   <defs>
@@ -16,83 +17,78 @@
     </marker>
   </defs>
 
-  <!-- Actors -->
-  <g transform="translate(40,20)">
-    <rect class="box" x="0" y="0" width="150" height="36" />
-    <text class="actor" x="75" y="22" text-anchor="middle">User Agent</text>
+  <!-- Actor boxes -->
+  <!-- positions: left to right -->
+  <g id="actors">
+    <g transform="translate(40,20)">
+      <rect class="box" x="0" y="0" width="160" height="36" />
+      <text class="actor" x="80" y="24" text-anchor="middle">User</text>
+    </g>
+    <g transform="translate(280,20)">
+      <rect class="box" x="0" y="0" width="160" height="36" />
+      <text class="actor" x="80" y="24" text-anchor="middle">ClientApp</text>
+    </g>
+    <g transform="translate(520,20)">
+      <rect class="box" x="0" y="0" width="160" height="36" />
+      <text class="actor" x="80" y="24" text-anchor="middle">AuthServer</text>
+    </g>
+    <g transform="translate(760,20)">
+      <rect class="box" x="0" y="0" width="160" height="36" />
+      <text class="actor" x="80" y="24" text-anchor="middle">ResourceServer</text>
+    </g>
   </g>
 
-  <g transform="translate(260,20)">
-    <rect class="box" x="0" y="0" width="170" height="36" />
-    <text class="actor" x="85" y="22" text-anchor="middle">Client (Public)</text>
-  </g>
+  <!-- Lifelines (centers at x = 120, 360, 600, 840) -->
+  <line class="lifeline" x1="120" y1="80" x2="120" y2="480" />
+  <line class="lifeline" x1="360" y1="80" x2="360" y2="480" />
+  <line class="lifeline" x1="600" y1="80" x2="600" y2="480" />
+  <line class="lifeline" x1="840" y1="80" x2="840" y2="480" />
 
-  <g transform="translate(540,20)">
-    <rect class="box" x="0" y="0" width="200" height="36" />
-    <text class="actor" x="100" y="22" text-anchor="middle">Authorization Server</text>
-  </g>
+  <!-- Arrows following the Mermaid sequence exactly -->
+  <!-- y positions -->
+  <!-- step 1 -->
+  <path class="arrow" d="M120 120 L 360 120" />
+  <text class="label-outline" x="240" y="110" text-anchor="middle">(1)Access protected resource</text>
+  <text class="label" x="240" y="110" text-anchor="middle">(1)Access protected resource</text>
 
-  <g transform="translate(820,20)">
-    <rect class="box" x="0" y="0" width="150" height="36" />
-    <text class="actor" x="75" y="22" text-anchor="middle">Resource Server</text>
-  </g>
+  <!-- step 2 -->
+  <path class="arrow" d="M360 160 L 600 160" />
+  <text class="label-outline" x="480" y="150" text-anchor="middle">(2)Redirect to Authorization Endpoint</text>
+  <text class="label" x="480" y="150" text-anchor="middle">(2)Redirect to Authorization Endpoint</text>
 
-  <!-- Lifelines -->
-  <line class="lifeline" x1="115" y1="80" x2="115" y2="320" />
-  <line class="lifeline" x1="345" y1="80" x2="345" y2="320" />
-  <line class="lifeline" x1="640" y1="80" x2="640" y2="320" />
-  <line class="lifeline" x1="895" y1="80" x2="895" y2="320" />
+  <!-- step 3 -->
+  <path class="arrow" d="M600 200 L 120 200" />
+  <text class="label-outline" x="360" y="190" text-anchor="middle">(3)Prompt for login and consent</text>
+  <text class="label" x="360" y="190" text-anchor="middle">(3)Prompt for login and consent</text>
 
-  <!-- Steps -->
-  <!-- 0. PKCE generation (client-side) -->
-  <text class="note" x="200" y="100">1. Client generates code_verifier &amp; code_challenge</text>
+  <!-- step 4 -->
+  <path class="arrow" d="M120 240 L 600 240" />
+  <text class="label-outline" x="360" y="230" text-anchor="middle">(4)Submit credentials and consent</text>
+  <text class="label" x="360" y="230" text-anchor="middle">(4)Submit credentials and consent</text>
 
-  <!-- 1. Authorization Request -->
-  <g>
-    <path class="arrow" d="M 140 130 L 320 130" />
-    <text class="note" x="230" y="120" text-anchor="middle">Authorization Request (client_id, redirect_uri, code_challenge, ...)</text>
-  </g>
+  <!-- step 5 -->
+  <path class="arrow" d="M600 280 L 360 280" />
+  <text class="label-outline" x="480" y="270" text-anchor="middle">(5)Redirect back with Authorization Code</text>
+  <text class="label" x="480" y="270" text-anchor="middle">(5)Redirect back with Authorization Code</text>
 
-  <!-- 2. User authenticates &amp; consents (Auth server) -->
-  <g>
-    <path class="arrow" d="M 520 165 L 352 165" stroke="#888" />
-    <text class="note" x="440" y="155" text-anchor="middle">Auth Server: prompt for login/consent</text>
-  </g>
+  <!-- step 6 -->
+  <path class="arrow" d="M360 320 L 600 320" />
+  <text class="label-outline" x="480" y="310" text-anchor="middle">(6)Exchange Code for Access Token</text>
+  <text class="label" x="480" y="310" text-anchor="middle">(6)Exchange Code for Access Token</text>
 
-  <!-- 3. Authorization Response (redirect with code) -->
-  <g>
-    <path class="arrow" d="M 320 200 L 140 200" />
-    <text class="note" x="230" y="190" text-anchor="middle">Authorization Response (redirect with code)</text>
-  </g>
+  <!-- step 7 -->
+  <path class="arrow" d="M600 360 L 360 360" />
+  <text class="label-outline" x="480" y="350" text-anchor="middle">(7)Return Access Token</text>
+  <text class="label" x="480" y="350" text-anchor="middle">(7)Return Access Token</text>
 
-  <!-- 4. Client receives code via User Agent -->
-  <text class="note" x="220" y="230">2. User Agent -> Client: authorization code</text>
+  <!-- step 8 -->
+  <path class="arrow" d="M360 400 L 840 400" />
+  <text class="label-outline" x="600" y="390" text-anchor="middle">(8)Access protected resource with Access Token</text>
+  <text class="label" x="600" y="390" text-anchor="middle">(8)Access protected resource with Access Token</text>
 
-  <!-- 5. Token Request (with code_verifier) -->
-  <g>
-    <path class="arrow" d="M 360 260 L 620 260" />
-    <text class="note" x="490" y="250" text-anchor="middle">Token Request (code, code_verifier, client_id)</text>
-  </g>
-
-  <!-- 6. Token Response -->
-  <g>
-    <path class="arrow" d="M 620 290 L 360 290" />
-    <text class="note" x="490" y="280" text-anchor="middle">Token Response (access_token, refresh_token?)</text>
-  </g>
-
-  <!-- 7. Client uses access token to call Resource Server -->
-  <g>
-    <path class="arrow" d="M 510 320 L 870 320" />
-    <text class="note" x="690" y="310" text-anchor="middle">Protected Resource Request (Authorization: Bearer token)</text>
-  </g>
-
-  <!-- 8. Resource Server returns resource -->
-  <g>
-    <path class="arrow" d="M 870 350 L 510 350" transform="translate(0,-40)" />
-    <text class="note" x="690" y="345" text-anchor="middle">Resource Response (data)</text>
-  </g>
-
-  <!-- Footnote -->
-  <text class="note" x="40" y="345">PKCE prevents intercepted authorization codes being exchanged without the original code_verifier.</text>
+  <!-- step 9 -->
+  <path class="arrow" d="M840 440 L 360 440" />
+  <text class="label-outline" x="600" y="430" text-anchor="middle">(9)Return protected resource</text>
+  <text class="label" x="600" y="430" text-anchor="middle">(9)Return protected resource</text>
 
 </svg>
