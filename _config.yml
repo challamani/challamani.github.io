@@ -19,6 +19,9 @@ mermaid: true
 # Some themes may require a version or specific engine
 mermaid_version: "11.0.0" 
 
+plugins:
+  - jekyll-mermaid
+
 markdown: kramdown
 home_url: "/"
 
