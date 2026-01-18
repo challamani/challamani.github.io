@@ -15,6 +15,10 @@ url: "https://manichalla.com"
 #theme: jekyll-theme-time-machine
 #theme: jekyll-theme-architect
 
+mermaid: true
+# Some themes may require a version or specific engine
+mermaid_version: "11.0.0" 
+
 markdown: kramdown
 home_url: "/"
 
