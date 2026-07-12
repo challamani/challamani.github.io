@@ -90,6 +90,22 @@ It was also really good to see more volunteers helping out with the **Manchester
 
 ---
 
+## Session: "What's Your Plan B?"
+
+One of the most enjoyable sessions of the day — and the last one before the evening drinks — was a dedicated, fully philosophical discussion: **"What is your Plan B?"**
+
+The premise was simple but thought-provoking: given where AI is heading, what would you fall back on if the software engineering landscape shifted beyond recognition?
+
+When it came to me, I didn't have to think too hard: **I'd become a farmer**. 🌱
+
+Not just any farmer — I want to grow world-class vegetables. And the twist? No money involved. Just a simple barter with neighbours — my vegetables in exchange for something they grow or make. A community built on trust and generosity, not transactions.
+
+The room laughed, but also nodded. There's something genuinely appealing about that kind of simplicity, especially at the end of a day where almost every conversation had circled back to AI reshaping everything we know. Sometimes the most radical Plan B is to step outside the system entirely.
+
+It was a brilliant way to close the sessions before heading down for drinks. Light-hearted, but with a real undercurrent of something worth sitting with.
+
+---
+
 ## A Big Thank You
 
 A heartfelt thank you to:
