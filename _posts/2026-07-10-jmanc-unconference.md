@@ -6,7 +6,7 @@ categories:
   - tech
 ---
 
-On **July 10, 2026**, I attended **JManc Unconference 2026**, held at AutoTrader's new office at **No. 3 Circle Square, Oxford Road, Manchester**. Doors opened at 8:30am and the event was up on the **14th floor** — the views over Manchester were already a great start to the day. The space itself was something — a beautiful modern office, and the big massive screen in the main area made the keynote presentation feel like a proper event. It was a great day, full of honest conversations and sessions that actually made you think.
+On **July 10, 2026**, I attended **JManc Unconference 2026**, held at AutoTrader's new office at **No. 3 Circle Square, Oxford Road, Manchester**. Doors opened at 8:30am and the event was up on the **14th floor**, the views over Manchester were already a great start to the day. The space itself was something, a beautiful modern office, and the big massive screen in the main area made the keynote presentation feel like a proper event. It was a great day, full of honest conversations and sessions that actually made you think.
 
 ![JManc Unconference 2026](/assets/jmanc_unconference_2026_4.png)
 
@@ -14,19 +14,19 @@ On **July 10, 2026**, I attended **JManc Unconference 2026**, held at AutoTrader
 
 ## A Day Shaped by AI
 
-Compared to last year, one thing was immediately obvious: **AI was part of almost every conversation**. Java frameworks, engineering culture, the future of our jobs — it didn't matter what the session was about, AI found its way in.
+Compared to last year, one thing was immediately obvious: **AI was part of almost every conversation**. Java frameworks, engineering culture, the future of our jobs, it didn't matter what the session was about, AI found its way in.
 
-That felt different. It wasn't just a hot topic anymore. In 2026, AI is something people are genuinely grappling with — how to use it well, what it means for the way we work, and honestly, what it means for us as engineers.
+That felt different. It wasn't just a hot topic anymore. In 2026, AI is something people are genuinely grappling with how to use it well, what it means for the way we work, and honestly, what it means for us as engineers.
 
 ---
 
 ## Keynote: Staying in the Driver's Seat
 
-The day opened with a keynote by **Clare Sudbery** — [*"The Power of Craft: Staying in the Driver's Seat of AI-Assisted Development"*](https://publish.obsidian.md/clare-sudbery-questions/Event+Resources/Talks/2026/26-07-10+JManc+unconference%2C+The+Power+of+Craft+-+Staying+in+the+Driver%E2%80%99s+Seat+of+AI-Assisted+Development) — delivered in front of that big screen, which added a nice weight to the whole thing. Her [slide deck](https://speakerdeck.com/claresudbery/the-power-of-craft-staying-in-the-drivers-seat-of-ai-assisted-development) is worth a look if you missed it.
+The day opened with a keynote by **Clare Sudbery**, [*"The Power of Craft: Staying in the Driver's Seat of AI-Assisted Development"*](https://publish.obsidian.md/clare-sudbery-questions/Event+Resources/Talks/2026/26-07-10+JManc+unconference%2C+The+Power+of+Craft+-+Staying+in+the+Driver%E2%80%99s+Seat+of+AI-Assisted+Development), delivered in front of that big screen, which added a nice weight to the whole thing. Her [slide deck](https://speakerdeck.com/claresudbery/the-power-of-craft-staying-in-the-drivers-seat-of-ai-assisted-development) is worth a look if you missed it.
 
-Clare opened by acknowledging something many of us quietly carry: AI is bringing up a dizzying mix of emotions. Are we being left behind if we don't "vibe code"? Is it even possible to keep up with the disorienting pace of change? It's easy to feel alienated by the sheer scale of what's happening in our industry. But her message was clear and grounded — approached with the **spirit of exploration**, AI can actually enhance the best parts of our work: helping us experiment, learn, and solve problems in new ways.
+Clare opened by acknowledging something many of us quietly carry: AI is bringing up a dizzying mix of emotions. Are we being left behind if we don't "vibe code"? Is it even possible to keep up with the disorienting pace of change? It's easy to feel alienated by the sheer scale of what's happening in our industry. But her message was clear and grounded, approached with the **spirit of exploration**, AI can actually enhance the best parts of our work: helping us experiment, learn, and solve problems in new ways.
 
-One of the references that resonated deeply was **Kent Beck** — the person who gave us TDD and the red-green-refactor discipline that so many of us build on every day. Kent has spoken about how AI agents have brought back the joy of building software for him after decades of coding. Clare's point was elegant: bring that same **craftsman mindset** to AI. Be curious, stay disciplined, be like Kent. The engineering values we've relied on for decades — care, judgement, and craft — are not liabilities in an AI world. They are precisely our **greatest advantage**.
+One of the references that resonated deeply was **Kent Beck**, the person who gave us TDD and the red-green-refactor discipline that so many of us build on every day. Kent has spoken about how AI agents have brought back the joy of building software for him after decades of coding. Clare's point was elegant: bring that same **craftsman mindset** to AI. Be curious, stay disciplined, be like Kent. The engineering values we've relied on for decades, i.e care, judgement, and craft are not liabilities in an AI world. They are precisely our **greatest advantage**.
 
 What stuck with me: **the engineers who will thrive are not those who hand their thinking to AI, but those who direct it**.
 
@@ -34,16 +34,16 @@ One line she said that I keep thinking about:
 
 > *AI has a planetary brain, but it lacks real-world wisdom.*
 
-AI has read practically everything. It can write code fast and often surprisingly well. But it doesn't have the lived experience of sitting in a production incident at 2am, or understanding why a particular business decision was made three years ago. That context, that wisdom — it still lives with us. The question is: **how do we make sure we don't lose it?**
+AI has read practically everything. It can write code fast and often surprisingly well. But it doesn't have the lived experience of sitting in a production incident at 2am, or understanding why a particular business decision was made three years ago. That context, that wisdom, it still lives with us. The question is: **how do we make sure we don't lose it?**
 
 ---
 
-![The Marketplace — session topics on the wall](/assets/jmanc_unconference_2026_3.jpg)
-*The Marketplace — everyone pitched their topics for the day. As you can see, AI featured... a lot*
+![The Marketplace — Unconference topics on the wall](/assets/jmanc_unconference_2026_3.jpg)
+*The Marketplace where everyone pitched their topics for the day. As you can see, AI featured... a lot*
 
 ## AI and the Engineering Culture Question
 
-Almost every session touched on this in some way: **AI is changing how we work — but how do we make sure it doesn't change what we value?**
+Almost every session touched on this in some way: **AI is changing how we work, but how do we make sure it doesn't change what we value?**
 
 ### Software Engineering Is More Than Writing Code
 
