@@ -38,6 +38,10 @@ AI has read practically everything. It can write code fast and often surprisingl
 
 ---
 
+![JManc Unconference 2026](/assets/jmanc_unconference_2026_1.jpg)
+
+![JManc Unconference 2026](/assets/jmanc_unconference_2026_2.jpg)
+
 ![The Marketplace — Unconference topics on the wall](/assets/jmanc_unconference_2026_3.jpg)
 *The Marketplace where everyone pitched their topics for the day. As you can see, AI featured... a lot*
 
