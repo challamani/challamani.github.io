@@ -80,7 +80,19 @@ The one exception people agreed on was ultra-low-latency systems — front-offic
 
 ---
 
-## Protecting Engineering Culture
+## The Philosophical Corner: What's Your Plan B?
+
+Not every session was strictly technical. One of the most enjoyable conversations of the day was a philosophical one — a **Plan B** discussion. With AI advancing at the pace it is, what would you do if the software engineering world shifted beyond recognition?
+
+When it was my turn, I didn't hesitate: **I'd become a farmer**. 🌱
+
+Not just any farmer — I want to grow world-class vegetables. And the twist? No money involved. Just a simple exchange with neighbours — my vegetables for something they grow or make. A community built on generosity and trust, not transactions.
+
+The room laughed, but also nodded. There's something genuinely appealing about that kind of simplicity, especially on a day where every second conversation circled back to AI reshaping everything we know. Sometimes the most radical Plan B is to step outside the system entirely.
+
+---
+
+
 
 The thing I kept coming back to throughout the day was this: **the AI conversation is really a conversation about who we are as engineers, and what we want to hold onto**.
 
@@ -94,10 +106,10 @@ It was also really good to see more volunteers helping out with the **Manchester
 
 A heartfelt thank you to:
 
-- 🙏 **AutoTrader** — for hosting us at No. 3 Circle Square. The 14th floor office is stunning, that big screen made the keynote, and starting the morning with breakfast and those views over Manchester was a proper treat.
+-  **AutoTrader** — for hosting us at No. 3 Circle Square. The 14th floor office is stunning, that big screen made the keynote, and starting the morning with breakfast and those views over Manchester was a proper treat.
 -  **Morson Edge** — for their support in making this event happen.
 -  **Manchester Java Community** — for organising another excellent unconference and continuing to build something genuinely valuable for the regional tech community.
 
 ---
 
-Already looking forward to **JManc 2027**. See you there! ☕🚀
+Already looking forward to **JManc 2027**. See you there! ☕
