@@ -38,7 +38,7 @@ AI can write code fast and often surprisingly well. But it doesn't have the live
 
 ![JManc Unconference 2026](/assets/jmanc_unconference_2026_2.jpg)
 
-![The Marketplace, Unconference topics on the wall](/assets/jmanc_unconference_2026_3.jpg)
+![The Marketplace, Unconference topics on the wall](/assets/jmanc_unconference_2026_3.png)
 *The Marketplace where everyone pitched their topics for the day. As you can see, AI featured... a lot*
 
 ## AI and the Engineering Culture Question
